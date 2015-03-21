@@ -1,4 +1,4 @@
-update=2015-03-18 22:22:31
+update=2015-03-21 20:28:34
 version=1
 last_client=eeschema
 [cvpcb]
@@ -66,3 +66,4 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
+LibName31=F:/Marcin/Elektronika/Projekty PCB/Biblioteki KICAD/moje_elementy
