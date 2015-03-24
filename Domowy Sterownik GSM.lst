@@ -1,0 +1,42 @@
+eeschema (2013-07-07 BZR 4022)-stable  >> Creation date: 2015-03-21 21:22:13
+#Cmp ( sort. wg = Oznaczenie )
+| C?         100n        
+| D?         ERR         
+| F?         FUSE        
+| IC?        ATMEGA32A-A 
+| K?         RE1         
+| L?         10u         
+| P?         1_wire      
+| Q?         BC817       
+| R?         10k         
+| RV?        10k         
+| S?         LCD         
+| SP?        TMB12A05    
+| SW?        DN          
+| T?         TRANSFO     
+| U?         BRIDGE_SMALL
+| VR?        V07N361-F   
+| X?         CRYSTAL     
+#End Cmp
+
+#Cmp ( sort. wg = Wartość )
+| 10k          R?        
+| CRYSTAL      X?        
+| V07N361-F    VR?       
+| BRIDGE_SMALL U?        
+| TRANSFO      T?        
+| DN           SW?       
+| TMB12A05     SP?       
+| LCD          S?        
+| 10k          RV?       
+| 100n         C?        
+| BC817        Q?        
+| 1_wire       P?        
+| 10u          L?        
+| RE1          K?        
+| ATMEGA32A-A  IC?       
+| FUSE         F?        
+| ERR          D?        
+#Koniec Cmp
+
+#Koniec listy
