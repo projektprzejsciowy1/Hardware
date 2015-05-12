@@ -1,10 +1,9 @@
-Wartoœæ;Sztuk;Oznaczenie
+Wartoœæ;Liczba;Oznaczenie
 22p;1;C10
 100n;4;C3 C5 C6 C9
 4,7u/T;1;C8
-100u/T;1;C7
-220u/T;2;C1 C2
-220u/10V/T;1;C4
+22u/T;1;C7
+220u/T;3;C1 C2 C4
 PWR;1;D1
 WS05MFC;1;D2
 NET;1;D3
