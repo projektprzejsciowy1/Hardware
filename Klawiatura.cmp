@@ -1,0 +1,80 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 2015-03-28 23:54:47
+
+BeginCmp
+TimeStamp = /55169714;
+Reference = P1;
+ValeurCmp = KEYS;
+IdModule  = P403-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /55169584;
+Reference = R1;
+ValeurCmp = 4,7k;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /551695A0;
+Reference = R2;
+ValeurCmp = 4,7k;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /551695A6;
+Reference = R3;
+ValeurCmp = 4,7k;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /551695AC;
+Reference = R4;
+ValeurCmp = 4,7k;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /551695B2;
+Reference = R5;
+ValeurCmp = 4,7k;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /551695F3;
+Reference = SW1;
+ValeurCmp = OK;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /55169632;
+Reference = SW2;
+ValeurCmp = UP;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /5516963D;
+Reference = SW3;
+ValeurCmp = DN;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /5516964D;
+Reference = SW4;
+ValeurCmp = LT;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /55169658;
+Reference = SW5;
+ValeurCmp = RT;
+IdModule  = ;
+EndCmp
+
+EndListe
